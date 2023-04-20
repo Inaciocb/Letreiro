@@ -36,10 +36,6 @@ Após ter o python instalado, siga os passos abaixo.
     sudo dnf install python3-pip
   `
   -Arch/Manjaro:
-  `
+  ```bash
     sudo pacman -S python-pip
-  `
-
-```teste 
-sexildo 
-`
+  ``
