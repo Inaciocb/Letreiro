@@ -30,6 +30,8 @@ python -m ensurepip --default-pip
 ```
 python -m pip install tkinter
 ```
+##6. Basta rodar o programa, você pode fazer isso com uma IDE ou executando o comando:
+```bash
 python3 letreiro.py
 ``
 
