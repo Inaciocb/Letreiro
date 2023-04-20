@@ -22,7 +22,16 @@ git clone https://github.com/Inaciocb/Letreiro.git
 ```bash
 cd Letreiro/sourcecode
 ```
-
+## 4. Instale o pip para acessar a biblioteca tkinter:
+```
+python -m ensurepip --default-pip
+```
+## 5. Instale a biblioteca tkinter:
+```
+python -m pip install tkinter
+```
+python3 letreiro.py
+``
 
 ***
 
