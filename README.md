@@ -8,14 +8,10 @@ Linux:
 Abra o terminal e digite os comandos:
 
 É preciso que o python já esteja instalado, verifique rodando o seguinte comando:
-`
-
+```bash
   python --version
-
-`
+```
 Caso não esteja, é necessário instalar o Python3.
-
--------------------------------------------------------------------------
 Após ter o python instalado, siga os passos abaixo.
 
 ## 1. Clone o repositório:
