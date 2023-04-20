@@ -1,6 +1,6 @@
 # Letreiro -> super simples <- feito em python com a biblioteca tkinter
 
-## Instalação:
+# Instalação:
 
 
 Linux:
