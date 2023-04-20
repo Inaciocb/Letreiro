@@ -10,10 +10,23 @@ Se não quiser rodar um executável no seu computador, você deve interpretar c�
 ## Windows:
 
 ## 1. Baixe e instale o Python3.
-Você pode baixar a partir do [site oficial](https://www.python.org/downloads/windows/)
-Abra o prompt de comando (cmd) e verifique se o Python foi instalado corretamente digitando:
+Você pode baixar a partir do [site oficial](https://www.python.org/downloads/windows/).
+Após a instalação, abra o prompt de comando (cmd) e verifique se o Python foi instalado corretamente digitando:
+```
+python --version
+```
+
+## 2. Clone o repositório:
+```bash
+git clone https://github.com/Inaciocb/Letreiro.git
+```
+## 3. Entre no diretório:
+```bash
+cd Letreiro/sourcecode
+```
 
 
+<h>
 
 ## Linux:
 
