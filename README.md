@@ -18,15 +18,15 @@ Caso não esteja, é necessário instalar o Python3.
 -------------------------------------------------------------------------
 Após ter o python instalado, siga os passos abaixo.
 
-### 1. Clone o repositório:
+## 1. Clone o repositório:
 ```bash
 git clone https://github.com/Inaciocb/Letreiro.git
 ```
-### 2. Entre no diretório:
+## 2. Entre no diretório:
 ```bash
 cd Letreiro/sourcecode
 ```
-### 3. Instale o pip para acessar a biblioteca tkinter:
+## 3. Instale o pip para acessar a biblioteca tkinter:
 
   -Debian/Ubuntu/PopOS/Mint:
 ```bash
