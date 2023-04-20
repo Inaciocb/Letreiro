@@ -9,7 +9,7 @@ Se não quiser rodar um executável no seu computador, você deve interpretar c�
 
 ## Windows:
 
-## 1. Baixe e instale o Python3 a partir do (site oficial)[https://www.python.org/downloads/windows/]
+## 1. Baixe e instale o Python3 a partir do [site oficial](https://www.python.org/downloads/windows/)
 Abra o prompt de comando (cmd) e verifique se o Python foi instalado corretamente digitando:
 
 
