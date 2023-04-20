@@ -5,6 +5,7 @@
 
 Linux:
 
+clone o repositório:
   ```
   git clone https://github.com/Inaciocb/Letreiro.git
-
+``
