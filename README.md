@@ -39,3 +39,7 @@ Após ter o python instalado, siga os passos abaixo.
   `
     sudo pacman -S python-pip
   `
+
+```teste 
+sexildo 
+`
