@@ -29,15 +29,15 @@ Após ter o python instalado, siga os passos abaixo.
 3. Instale o pip para acessar a biblioteca tkinter:
 
   -Debian/Ubuntu/PopOS/Mint:
-  
-  ` sudo apt-get install python-pip
-  `
+  ```
+   sudo apt-get install python-pip
+  ```
   -Fedora/Redhat/CentOS/OracleLinux/ClearOS:
 ```bash
-    sudo dnf install python3-pip
+sudo dnf install python3-pip
 ```
     
   -Arch/Manjaro:
   ```bash
-    sudo pacman -S python-pip
+sudo pacman -S python-pip
   
