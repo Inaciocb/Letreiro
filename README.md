@@ -2,6 +2,7 @@
 
 # Instalação:
 
+Você pode baixar o executável diretamente para windows [Aqui](https://github.com/Inaciocb/Letreiro/releases/tag/LEDSign) e rodar apenas clicando nele.
 
 Se não quiser rodar um executável no seu computador, você deve interpretar código o "letreiro.py", de código aberto, na sua máquina, siga os passos abaixo:
 
