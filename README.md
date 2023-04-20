@@ -1,5 +1,9 @@
 # Letreiro -> super simples <- feito em python com a biblioteca tkinter
 
+![Alt Text](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Letreiro.gif)
+
+
+
 # Instalação:
 
 Você pode baixar o executável diretamente para windows [Aqui](https://github.com/Inaciocb/Letreiro/releases/tag/LEDSign) e rodar apenas clicando nele (o Windows irá reconhecer como perigoso, para rodar o código basta clicar em "Mais informações" e depois em "Executar assim mesmo".
