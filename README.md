@@ -33,9 +33,9 @@ Após ter o python instalado, siga os passos abaixo.
   ` sudo apt-get install python-pip
   `
   -Fedora/Redhat/CentOS/OracleLinux/ClearOS:
-  `
+  ```bash
     sudo dnf install python3-pip
-  `
+    
   -Arch/Manjaro:
   ```bash
     sudo pacman -S python-pip
