@@ -1,2 +1,2 @@
-#Letreiro feito em python com a biblioteca tkinter
+# Letreiro feito em python com a biblioteca tkinter
 
