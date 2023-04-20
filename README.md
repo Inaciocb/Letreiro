@@ -5,7 +5,6 @@
 
 Linux:
 
-``sh
-  git clone https://github.com/Inaciocb/Letreiro.git
   ```
+  git clone https://github.com/Inaciocb/Letreiro.git
 
