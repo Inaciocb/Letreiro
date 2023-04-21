@@ -80,3 +80,7 @@ sudo pacman -S python-pip
 ```
 pip install tkinter
 ```
+## 5. Rode o programa usando o comando:
+```
+python3 letreiro.py
+```
