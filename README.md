@@ -1,19 +1,15 @@
 # Letreiro -> super simples <- feito em python com a biblioteca tkinter
 
-![GIF](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Letreiro.gif)
+![Alt Text](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Letreiro.gif)
 
 
 
 # Instalação:
 
-Você pode baixar o executável diretamente para windows [Aqui](https://github.com/Inaciocb/Letreiro/releases/tag/LEDSign), clique em "letreiro.exe" e rodar apenas clicando nele (o Windows irá reconhecer como perigoso, para rodar o código basta clicar em "Mais informações": 
-![img1](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Windows1.jpg)
+Você pode baixar o executável diretamente para windows [Aqui](https://github.com/Inaciocb/Letreiro/releases/tag/LEDSign), clique em "letreiro.exe" e execute o programa apenas clicando nele (o Windows irá reconhecer o executável como perigoso, para rodar o código basta clicar em "Mais informações" e depois em "Executar assim mesmo".
 
-e depois em "Executar assim mesmo".
 
-![img2](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Windows2.jpg)
-
-Se não quiser rodar um executável no seu computador, você deve interpretar código o "letreiro.py", de código aberto, na sua máquina. Para isso, siga os passos abaixo:
+Se não quiser rodar um executável no seu computador, você deve interpretar código o "letreiro.py", de código aberto, na sua máquina, siga os passos abaixo:
 # Windows:
 
 ## 1. Baixe e instale o Python3.
