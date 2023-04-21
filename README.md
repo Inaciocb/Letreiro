@@ -76,4 +76,7 @@ sudo dnf install python3-pip
 ```bash
 sudo pacman -S python-pip
 ```
-  
+## 4. Instale a biblioteca tkinter:
+```
+pip install tkinter
+```
