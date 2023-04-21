@@ -13,7 +13,7 @@ e depois em "Executar assim mesmo".
 
 ![img2](https://github.com/Inaciocb/Letreiro/blob/main/screenshots/Windows2.jpg)
 
-Se não quiser rodar um executável no seu computador, você deve interpretar código o "letreiro.py", de código aberto, na sua máquina, siga os passos abaixo:
+Se não quiser rodar um executável no seu computador, você deve interpretar o programa "letreiro.py", de código aberto, na sua máquina. Para isso, siga os passos abaixo:
 # Windows:
 
 ## 1. Baixe e instale o Python3.
