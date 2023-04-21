@@ -61,7 +61,12 @@ git clone https://github.com/Inaciocb/Letreiro.git
 ```bash
 cd Letreiro/sourcecode
 ```
-## 3. Instale o pip para acessar a biblioteca tkinter:
+## 3. Provavelmente a biblioteca tkinter já veio instalada com a sua instalação do python, então, basta rodar o programa com o comando:
+```
+python3 letreiro.py
+```
+
+## - Instale o pip para acessar a biblioteca tkinter:
 
   -Debian/Ubuntu/PopOS/Mint:
 ```bash
@@ -76,11 +81,11 @@ sudo dnf install python3-pip
 ```bash
 sudo pacman -S python-pip
 ```
-## 4. Instale a biblioteca tkinter:
+## - Instale a biblioteca tkinter:
 ```
 pip install tkinter
 ```
-## 5. Rode o programa usando o comando:
+## - Rode o programa usando o comando:
 ```
 python3 letreiro.py
 ```
